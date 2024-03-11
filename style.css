@@ -7,8 +7,7 @@ body{
     border: none;
     padding: 2%;
     border-radius: 6px;
-    max-width: 55%;
-    /* width: 25%; */
+    max-width: 23rem;
     margin: auto;
     position: relative;
     top: 15vh;
@@ -24,7 +23,7 @@ body{
 h2{
     font-weight: 800;
     background-color: #5B84B1FF;
-    padding: 1vw;
+    padding: 0.8rem;
     border-radius: 20px;
 }
 .one h3{
